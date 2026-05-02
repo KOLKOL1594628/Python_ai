@@ -1,0 +1,4 @@
+accelerate
+torch
+transformers
+#虽然连调用AI的代码都是我找AI写的但是还是可以调用的，这是所需的库
